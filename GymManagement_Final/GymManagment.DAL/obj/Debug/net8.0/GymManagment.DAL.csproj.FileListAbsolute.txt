@@ -1,0 +1,16 @@
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\bin\Debug\net8.0\GymManagment.DAL.deps.json
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\bin\Debug\net8.0\GymManagment.DAL.runtimeconfig.json
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\bin\Debug\net8.0\GymManagment.DAL.dll
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\bin\Debug\net8.0\GymManagment.DAL.pdb
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\GymManagment.DAL.csproj.AssemblyReference.cache
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\GymManagment.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\GymManagment.DAL.AssemblyInfoInputs.cache
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\GymManagment.DAL.AssemblyInfo.cs
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\GymManagment.DAL.csproj.CoreCompileInputs.cache
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\GymManagment.DAL.sourcelink.json
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\GymManagment.DAL.dll
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\refint\GymManagment.DAL.dll
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\GymManagment.DAL.pdb
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\GymManagment.DAL.genruntimeconfig.cache
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\ref\GymManagment.DAL.dll
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.DAL\obj\Debug\net8.0\GymManag.AC231534.Up2Date

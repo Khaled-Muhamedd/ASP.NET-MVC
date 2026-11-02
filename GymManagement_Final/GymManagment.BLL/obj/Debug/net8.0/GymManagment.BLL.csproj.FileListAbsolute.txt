@@ -1,0 +1,16 @@
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\bin\Debug\net8.0\GymManagment.BLL.deps.json
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\bin\Debug\net8.0\GymManagment.BLL.dll
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\bin\Debug\net8.0\GymManagment.BLL.pdb
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\bin\Debug\net8.0\GymManagment.DAL.dll
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\bin\Debug\net8.0\GymManagment.DAL.pdb
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\GymManagment.BLL.csproj.AssemblyReference.cache
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\GymManagment.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\GymManagment.BLL.AssemblyInfoInputs.cache
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\GymManagment.BLL.AssemblyInfo.cs
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\GymManagment.BLL.csproj.CoreCompileInputs.cache
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\GymManagment.BLL.sourcelink.json
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\GymManag.70B36A2B.Up2Date
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\GymManagment.BLL.dll
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\refint\GymManagment.BLL.dll
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\GymManagment.BLL.pdb
+C:\Users\khale\OneDrive\Desktop\Route\Back-end\Assingments\7-ASP.NET MVC\GymManagement_Final\GymManagment.BLL\obj\Debug\net8.0\ref\GymManagment.BLL.dll

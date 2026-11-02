@@ -1,0 +1,37 @@
+wwwroot\Files\plans.json
+wwwroot\css\AuthStyle.css
+wwwroot\css\bootstrap.min.css
+wwwroot\css\style.css
+wwwroot\favicon.ico
+wwwroot\images\Ellipse 7.jpg
+wwwroot\images\Theo Vance.jpg
+wwwroot\images\about p1.jpg
+wwwroot\images\about p2.jpg
+wwwroot\images\about p3.jpg
+wwwroot\images\action dots.jpg
+wwwroot\images\card-header.jpg
+wwwroot\images\dumbbell.jpg
+wwwroot\images\edit.jpg
+wwwroot\images\facebook-f.jpg
+wwwroot\images\feature icon.jpg
+wwwroot\images\icon.jpg
+wwwroot\images\icon.svg
+wwwroot\images\icons8-scooby-doo-shaggy-rogers-48.png
+wwwroot\images\info 1.jpg
+wwwroot\images\line-md_phone-filled.jpg
+wwwroot\images\logo.jpg
+wwwroot\images\mdi_whatsapp.jpg
+wwwroot\images\message icon.jpg
+wwwroot\images\phone icon.jpg
+wwwroot\images\search icon.jpg
+wwwroot\images\star.svg
+wwwroot\images\twitter.jpg
+wwwroot\images\why us images.jpg
+wwwroot\images\why us images.svg
+wwwroot\images\workout 1.jpg
+wwwroot\images\workout 2.jpg
+wwwroot\images\workout 3.jpg
+wwwroot\images\x-circle 1.jpg
+wwwroot\js\bootstrap.bundle.min.js
+wwwroot\js\jquery.validate.min.js
+wwwroot\js\jquery.validate.unobtrusive.min.js

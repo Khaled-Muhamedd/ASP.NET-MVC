@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khale\\OneDrive\\Desktop\\Route\\Back-end\\Assingments\\7-ASP.NET MVC\\GymManagement_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21835146-2FF9-4F7B-BFF6-6955C09B1F45}|GymManagment_MVCProject\\GymManagment.PL.csproj|c:\\users\\khale\\onedrive\\desktop\\route\\back-end\\assingments\\7-asp.net mvc\\gymmanagement_final\\gymmanagment_mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21835146-2FF9-4F7B-BFF6-6955C09B1F45}|GymManagment_MVCProject\\GymManagment.PL.csproj|solutionrelative:gymmanagment_mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khale\\OneDrive\\Desktop\\Route\\Back-end\\Assingments\\7-ASP.NET MVC\\GymManagement_Final\\GymManagment_MVCProject\\appsettings.json",
+              "RelativeDocumentMoniker": "GymManagment_MVCProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\khale\\OneDrive\\Desktop\\Route\\Back-end\\Assingments\\7-ASP.NET MVC\\GymManagement_Final\\GymManagment_MVCProject\\appsettings.json",
+              "RelativeToolTip": "GymManagment_MVCProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T16:57:56.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
